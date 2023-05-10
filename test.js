@@ -11,3 +11,4 @@ let sum_one = arr.reduce((total, currentValue) => total + currentValue, 100);
 
 console.log("새로운 기능임")
 console.log("충돌 날거임")
+console.log("졸리다 졸려")
