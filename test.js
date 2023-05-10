@@ -8,3 +8,5 @@ let sum = arr.reduce((total, currentValue) => {
 let sum_one = arr.reduce((total, currentValue) => total + currentValue, 100);
 
 gridObj.$V('EVI_SEQ',rowIndex);
+
+//bug fix test
