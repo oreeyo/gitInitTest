@@ -10,4 +10,4 @@ let sum_one = arr.reduce((total, currentValue) => total + currentValue, 100);
 // 풀 리퀘스트가 전송될거임
 
 console.log("터미널로 git 사용중임")
-console.log("충돌 날거임")
+console.log("윈도우로도 테스트해봄")
