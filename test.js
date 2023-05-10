@@ -6,5 +6,5 @@ let sum = arr.reduce((total, currentValue) => {
 }, 100);
 
 let sum_one = arr.reduce((total, currentValue) => total + currentValue, 100);
-
+//메인은 그대로 진행!
 gridObj.$V('EVI_SEQ',rowIndex);
