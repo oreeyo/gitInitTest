@@ -10,3 +10,4 @@ let sum_one = arr.reduce((total, currentValue) => total + currentValue, 100);
 gridObj.$V('EVI_SEQ',rowIndex);
 
 console.log("새로운 기능임")
+console.log("충돌 날거임")
